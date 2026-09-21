@@ -1,0 +1,15 @@
+node_modules/
+dist/
+out/
+.build/
+.DS_Store
+*.log
+.demo/
+build/
+*.app
+.swiftpm/
+Sidecar/host.mjs
+
+# The owner's global ignore file excludes every scripts directory.
+!scripts/
+!Sidecar/scripts/
